@@ -8,39 +8,39 @@ Research Methodology Workshop by [Prof. N. Sundara Rajan](https://www.linkedin.c
 
 ## Resources
 
-#### **Day 1 - 10th May, 2022**
+### **Day 1 : 10th May, 2022 - What is Research/Ph.D?**
 
-- [Presentation](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cybersecurity_amrita_edu/EdE5BCGwWFpJoGqRcULrT_wBs_166QyfkCs9rE92LvKLow)
-- [Video Recording](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cybersecurity_amrita_edu/ETQCrUNjvTNHunJkRK2YKvEBMTvpeOv_tBigdWMp-giVSA)
+- [Presentation](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cybersecurity_amrita_edu/EdE5BCGwWFpJoGqRcULrT_wB9YpLNLduMZQmOJny2ZyFFw?e=R6j1Z1)
+- [Video Recording](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cybersecurity_amrita_edu/ETQCrUNjvTNHunJkRK2YKvEBMTvpeOv_tBigdWMp-giVSA?e=Aegl6K)
 
-#### **Day 2 - 11th May, 2022**
+### **Day 2 : 11th May, 2022 - How to Improve Research Skills?**
 
-- [Presentation - Continued](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cybersecurity_amrita_edu/EdE5BCGwWFpJoGqRcULrT_wBs_166QyfkCs9rE92LvKLow)
+- [Presentation - Continued](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cybersecurity_amrita_edu/EdE5BCGwWFpJoGqRcULrT_wB9YpLNLduMZQmOJny2ZyFFw?e=R6j1Z1)
 - [Video Recording](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/n_prabhu_cb_students_amrita_edu/EVdRETujUV1IjrhqRypNPj4BeIxoMH-fGI9_4C9qH7fuWw)
 
-#### **Day 3 - 12th May, 2022**
+### **Day 3 : 12th May, 2022 - How to do an Effective Literature Survery?**
 
-- [Presentation](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cybersecurity_amrita_edu/EQYgQjqisZlHhtq1eYk85dgBdQooz0In80OSJ-DA6BWz3w)
-- [Video Recording](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/v_bharathkumar_cb_students_amrita_edu/EfnR-iWh0jROplaOidqZ2UcBxfgPPrA7_TOWnTs0XL4K9A)
+- [Presentation](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cybersecurity_amrita_edu/EQYgQjqisZlHhtq1eYk85dgBc1UJzQR121R65fUhbFt_4w?e=gFf7EE)
+- [Video Recording](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cybersecurity_amrita_edu/EYaA4S70-rpPrW1NJUYXSfUBwcF-siA0ycoeQep47iDC8g?e=2uhpoY)
 
-#### **Day 4 - 13th May, 2022**
+### **Day 4 : 13th May, 2022 - How to write an Effective Research Paper?**
 
-- [Presentation](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cybersecurity_amrita_edu/EfDmCJ4okEtPhlsX5Kdjs-wBeInhxDkkNEMtOSD_XQ85Bw)
-- [Video Recording](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/r/personal/v_bharathkumar_cb_students_amrita_edu/Documents/Recordings/Research%20Methodology%20sessions%20by%20Prof.%20N.%20Sundararajan_20220513_104652.mp4?csf=1&web=1&e=dpGu2i)
+- [Presentation](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cybersecurity_amrita_edu/EfDmCJ4okEtPhlsX5Kdjs-wBxnjy5LNp-Gh2DVAg7sgdhg?e=Eif89d)
+- [Video Recording](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cybersecurity_amrita_edu/EWn7Vio8TFpJhlUp3arCFy8B_RgzjDLKBvu7hyxEaauP9w?e=zUYn8R)
 
-#### **Day 5 - 16th May, 2022**
+### **Day 5 : 16th May, 2022 - How to write a good Ph.D Thesis and good Oral Presentation**
 
 - Presentation
-- Video Recording
+- [Video Recording](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cybersecurity_amrita_edu/EYvdyIrAyHVMvDMtzzSYPIwBx90rT8HCbSMQ6afLUOMxVw?e=ccZxK5)
 
-#### **Day 6 - 17th May, 2022**
+### **Day 6 : 17th May, 2022 - Research Ethics**
 
 - Presentation
 - Video Recording
 
 ###### Workshop Presentations and Video Recordings require Amrita Vishwa Vidyapeetham Email IDs to access. 
 
-#### Additional Reading (Open Access)
+### Additional Reading (Open Access)
 - [Authorship: why not just toss a coin](Assets/External/Authorship_why_not_just_toss_a_coin.pdf)
 - [Some Modest Advice For Graduate Students](Assets/External/Some_Modest_Advice_For_Graduate_Students.pdf)
 - [You and Your Research](Assets/External/You_and_Your_Research.pdf)
