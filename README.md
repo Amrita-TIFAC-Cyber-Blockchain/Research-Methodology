@@ -1,4 +1,4 @@
-# Research Methodology ![](https://img.shields.io/badge/-Workshop-orange)
+# Research Methodology ![](https://img.shields.io/badge/-Workshop-orange) ![](https://img.shields.io/badge/Date-10_to_17,_May_2022-brown)
 
 #### Research Methodology Workshop by [Prof. N. Sundara Rajan](https://www.linkedin.com/in/narasimman-sundararajan-42333213/)
 
@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Participants-101-pruple)
 
 [ ![](https://img.shields.io/badge/-Presentation_Slides-blue) ](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cybersecurity_amrita_edu/EdE5BCGwWFpJoGqRcULrT_wB9YpLNLduMZQmOJny2ZyFFw?e=R6j1Z1)
-[ ![](https://img.shields.io/badge/-Video_Recording-darkblue) ](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/n_prabhu_cb_students_amrita_edu/EVdRETujUV1IjrhqRypNPj4BeIxoMH-fGI9_4C9qH7fuWw)
+[ ![](https://img.shields.io/badge/-Video_Recording-darkblue) ](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cybersecurity_amrita_edu/EaEhBdQNgp9MrNgLbFUAwiwB4ibZfwize5JeTUdv4Y_9XA?e=hoepsw)
 
 ### **Day 3 : 12th May, 2022 - How to do an Effective Literature Survery?**
 ![](https://img.shields.io/badge/Participants-131-pruple)
@@ -39,10 +39,10 @@
 [ ![](https://img.shields.io/badge/-Video_Recording-darkblue) ](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cybersecurity_amrita_edu/EYvdyIrAyHVMvDMtzzSYPIwBx90rT8HCbSMQ6afLUOMxVw?e=ccZxK5)
 
 ### **Day 6 : 17th May, 2022 - Research Ethics**
-![](https://img.shields.io/badge/Participants-TBD-pruple)
+![](https://img.shields.io/badge/Participants-122-pruple)
 
 [ ![](https://img.shields.io/badge/-Presentation_Slides-blue) ]()
-[![](https://img.shields.io/badge/-Video_Recording-darkblue)]()
+[![](https://img.shields.io/badge/-Video_Recording-darkblue)](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cybersecurity_amrita_edu/ER0LEKF5xtFGruDSUuhMXKEB6D7-zqIJANLdDLPigu2CKg?e=lfZMLx)
 
 ###### Workshop Presentations and Video Recordings require Amrita Vishwa Vidyapeetham Email IDs to access. 
 
