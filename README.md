@@ -29,7 +29,7 @@
 ### **Day 4 : 13th May, 2022 - How to write an Effective Research Paper?**
 ![](https://img.shields.io/badge/Participants-120-pruple)
 
-[ ![](https://img.shields.io/badge/-Presentation_Slides-blue) ]()
+[ ![](https://img.shields.io/badge/-Presentation_Slides-blue) ](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cybersecurity_amrita_edu/EcB6RJ3KI7RIjXBMukNHgaoBv95CKaqQUi-ylt-HEvp4iA?e=5PEELI)
 [ ![](https://img.shields.io/badge/-Video_Recording-darkblue) ](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cybersecurity_amrita_edu/EWn7Vio8TFpJhlUp3arCFy8B_RgzjDLKBvu7hyxEaauP9w?e=zUYn8R)
 
 ### **Day 5 : 16th May, 2022 - How to write a good Ph.D Thesis and good Oral Presentation**
